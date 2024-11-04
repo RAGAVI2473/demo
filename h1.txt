@@ -1,0 +1,22 @@
+h1
+  {
+    color:aqua;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-indent: 50px;
+    letter-spacing: 10px;
+}
+.main{
+    color:antiquewhite;
+    word-spacing: 10px;
+}
+#menu
+{
+    color:rgb(26, 245, 30);
+}
+*{
+    background-color: wheat;
+}

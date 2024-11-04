@@ -1,0 +1,8 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+    background-image: url(Screenshot\ 2024-10-23\ 153926.png);
+    background-repeat: no-repeat;
+    background-size: ;
+    
+}
